@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flicker-React/static/css/main.6ef1b18e.css",
+    "main.js": "/flicker-React/static/js/main.3709d837.js",
+    "index.html": "/flicker-React/index.html",
+    "main.6ef1b18e.css.map": "/flicker-React/static/css/main.6ef1b18e.css.map",
+    "main.3709d837.js.map": "/flicker-React/static/js/main.3709d837.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef1b18e.css",
+    "static/js/main.3709d837.js"
+  ]
+}
